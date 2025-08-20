@@ -211,8 +211,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For support and questions:
-- Email: hello@nsquareclothing.com
-- Phone: +91 98765 43210
+- Email: Soon Disclose
+- Phone: Soon Disclose
 
 ## 🙏 Acknowledgments
 
